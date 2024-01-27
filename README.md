@@ -1,4 +1,4 @@
-# Nitesh Methani
+# Nitesh Methani 👋
 
 Hello, my name is Nitesh. I am 29 years old living in Bangalore, India.
 

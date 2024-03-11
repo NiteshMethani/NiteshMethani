@@ -1,6 +1,6 @@
 # Nitesh Methani 👋
 
-Hello, my name is Nitesh. I am 29 years old living in Bangalore, India.
+Hello, my name is Nitesh.
 
 Currently I am working as an Applied Scientist-II at Amazon where me and my team leverage LLMs and GenAI to improve the last mile delivery experience for our customers.
 
